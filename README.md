@@ -2,6 +2,9 @@
 
 
 <div id="badges">
+  
+  <a href="https://stardev.io/developers/muhammadimran021"><img alt="Check out muhammadimran021's profile on stardev.io" src="https://stardev.io/developers/muhammadimran021/badge/languages/global.svg" /></a>
+  
   <a href="https://www.linkedin.com/in/muhammadimran021/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,6 +22,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 - 👋 Hi, I’m Muhammad Imran 
 - 👀 I’m Software Engineer (Android)
