@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/muhammadimran021/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/muhammadimran021">
+              
+   <a href="https://www.facebook.com/muhammadimran021">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Muhamma71852273">
@@ -24,7 +25,7 @@
 </h1>
 
 
-- 👋 Hi, I’m Muhammad Imran 
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammadimran021" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammadimran021?trk=profile-badge">👋 Hi, I’m Muhammad Imran 🇵🇰</a></div>
 - 👀 I’m Software Engineer (Android)
 - :zap: I'm Currently working on MVVM with clean architecture
 - 🌱 I’m currently learning Fastlane and Github Actions
