@@ -53,9 +53,9 @@
    </a>
 </p>
 
-<div align='center'>
+<!-- <div align='center'>
    <a href="https://stardev.io/developers/muhammadimran021"><img alt="Check out muhammadimran021's profile on stardev.io" src="https://stardev.io/developers/muhammadimran021/badge/languages/global.svg" /></a>
-</div>
+</div> -->
 
 <!---
    muhammadimran021/muhammadimran021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
